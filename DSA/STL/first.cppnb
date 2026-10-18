@@ -1,0 +1,8 @@
+{
+  "cells": [
+    {
+      "kind": "code",
+      "text": "#include<bits/stdc++.h>\r\nusing namespace std;\r\nint main() {\r\n    cout<<\"hello world\\n\";\r\n}"
+    }
+  ]
+}
